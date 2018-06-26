@@ -1,0 +1,23 @@
+html {
+  box-sizing: border-box;
+}
+
+*,
+*:before,
+*:after {
+  box-sizing: inherit;
+}
+
+body {
+  margin: 0;
+  font-family: 'Raleway', sans-serif;
+}
+
+a {
+  color: black;
+  transition: all 0.5s;
+}
+
+a:hover {
+  color: #3f536c;
+}
